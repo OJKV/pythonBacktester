@@ -1,6 +1,6 @@
  
 # pythonBacktester
-                                     # PROJECT’S SPECIFICATION  
+# PROJECT’S SPECIFICATION  
 
 
  
